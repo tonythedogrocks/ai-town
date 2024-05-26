@@ -38,7 +38,7 @@ export const Descriptions = [
     plan: 'You want to avoid people as much as possible.',
   },
   {
-    name: 'Stella',
+    name: 'Stellaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa',
     character: 'f6',
     identity: `Stella can never be trusted. she tries to trick people all the time. normally
       into giving her money, or doing things that will make her money. she's incredibly charming
